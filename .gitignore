@@ -1,0 +1,8 @@
+
+# API keys and environment files
+.env
+# Python files
+__pycache__/
+*.py[cod]
+venv/
+env/
